@@ -1,1 +1,5 @@
-asdaasdsaasdhgasgdha
+Public class Demoapp{
+
+Statsic int i =10;
+
+}
